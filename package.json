@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server/server.js",
-    "build": "node server/server.js"
+    "start": "node server/server.js"
   },
   "author": "PawanJS",
   "license": "ISC",
